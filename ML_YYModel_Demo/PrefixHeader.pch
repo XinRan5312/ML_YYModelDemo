@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  ML_YYModel_Demo
+//
+//  Created by 马文星 on 16/5/20.
+//  Copyright © 2016年 Demos. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "YYBook.h"
+#import "YYUser.h"
+#import "YYRepo.h"
+#import "YYPhoto.h"
+#import "YYMessage.h"
+#import "YYModel.h"
+#import "YYAlbum.h"
+
+
+#endif /* PrefixHeader_pch */
